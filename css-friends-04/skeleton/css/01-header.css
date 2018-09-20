@@ -45,5 +45,5 @@ body {
 }
 
 .header-list > li:hover {
-  color: #000;
+  background: #000;
 }
